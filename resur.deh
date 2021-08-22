@@ -1,0 +1,208 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd2 0.60 build 214
+
+# General version information
+Doom version = 21
+Patch format = 6
+
+# Info for WhackEd2
+Engine config = udoom.cfg
+IWAD = c:\program files\whacked2\doom.wad
+
+
+Thing 4 (Archvile)
+Respawn frame = 148
+
+Thing 19 (Lost Soul)
+Respawn frame = 142
+
+Thing 20 (Spiderdemon)
+Respawn frame = 765
+
+Thing 22 (Cyberdemon)
+Respawn frame = 312
+
+Thing 25 (Commander Keen)
+Respawn frame = 763
+
+Thing 41 (Item Respawn Fog)
+Initial frame = 130
+
+
+
+Frame 142
+Sprite number = 44
+Sprite subnumber = 32778
+
+Frame 143
+Sprite number = 44
+Sprite subnumber = 32777
+
+Frame 144
+Sprite number = 44
+Sprite subnumber = 32776
+
+Frame 145
+Sprite number = 44
+Sprite subnumber = 32775
+
+Frame 146
+Sprite number = 44
+Sprite subnumber = 32774
+
+Frame 147
+Sprite number = 44
+Sprite subnumber = 32773
+Next frame = 587
+
+Frame 148
+Sprite number = 31
+Sprite subnumber = 23
+Next frame = 197
+
+Frame 196
+Next frame = 230
+
+Frame 197
+Sprite number = 31
+Sprite subnumber = 22
+Duration = 6
+
+Frame 198
+Sprite number = 31
+Sprite subnumber = 21
+Duration = 6
+
+Frame 199
+Sprite number = 31
+Sprite subnumber = 20
+Duration = 6
+
+Frame 200
+Sprite number = 31
+Sprite subnumber = 19
+Duration = 6
+
+Frame 201
+Sprite number = 31
+Sprite subnumber = 18
+Duration = 6
+
+Frame 202
+Sprite number = 31
+Sprite subnumber = 17
+Duration = 6
+Next frame = 243
+
+Frame 311
+Next frame = 314
+
+Frame 312
+Sprite number = 49
+Sprite subnumber = 14
+Duration = 6
+
+Frame 313
+Sprite number = 49
+Sprite subnumber = 13
+Duration = 6
+Next frame = 752
+
+Frame 339
+Duration = 10
+Next frame = 341
+
+Frame 340
+Sprite number = 16
+Sprite subnumber = 0
+Duration = 0
+Next frame = 887
+
+Frame 600
+Next frame = 887
+
+Frame 719
+Next frame = 340
+
+Frame 751
+Next frame = 230
+
+Frame 752
+Sprite number = 49
+Sprite subnumber = 12
+
+Frame 753
+Sprite number = 49
+Sprite subnumber = 11
+
+Frame 754
+Sprite number = 49
+Sprite subnumber = 10
+
+Frame 755
+Sprite number = 49
+Sprite subnumber = 9
+
+Frame 756
+Sprite number = 49
+Sprite subnumber = 8
+
+Frame 757
+Sprite number = 49
+Sprite subnumber = 7
+Duration = 5
+Next frame = 676
+
+Frame 764
+Sprite subnumber = 12
+Duration = 12
+Next frame = 766
+
+Frame 765
+Sprite number = 45
+Sprite subnumber = 16
+Next frame = 767
+
+Frame 766
+Sprite subnumber = 12
+Duration = 48
+Next frame = 774
+
+Frame 767
+Sprite number = 45
+Sprite subnumber = 15
+
+Frame 768
+Sprite number = 45
+Sprite subnumber = 14
+
+Frame 769
+Sprite number = 45
+Sprite subnumber = 13
+
+Frame 770
+Sprite number = 45
+Sprite subnumber = 12
+
+Frame 771
+Sprite number = 45
+Sprite subnumber = 11
+
+Frame 772
+Sprite number = 45
+Sprite subnumber = 10
+
+Frame 773
+Sprite number = 45
+Next frame = 603
+
+
+
+Pointer 189 (Frame 340)
+Codep Frame = 160
+
+
+
+Text 4 4
+SMT2NONE
+
